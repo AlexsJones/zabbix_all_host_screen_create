@@ -1,6 +1,6 @@
 #zabbix_all_host_screen_create
 
-Run this command to create screens for your hosts.simple.
+Run this command to create screens for all your hosts in a given group
 
 ###command
 
