@@ -1,4 +1,4 @@
-#zabbix_host_screen_create
+#zabbix_all_host_screen_create
 
 Run this command to create screens for your hosts.simple.
 
@@ -6,7 +6,7 @@ Run this command to create screens for your hosts.simple.
 
 
 ``
-python zabbix_host_screen_create.py -s http://10.65.93.87/zabbix -u Admin -p zabbix -g 1
+python zabbix_all_host_screen_create.py -s http://10.65.93.87/zabbix -u Admin -p zabbix -g 1
 ```
 
 ###requirements
